@@ -8,6 +8,7 @@
   "dependencies": {
     "@material-tailwind/react": "0.3.4",
     "@next-auth/firebase-adapter": "^0.1.2",
+    "draft-js": "^0.11.7",
     "firebase": "^8.8.1",
     "install": "^0.13.0",
     "next": "latest",
@@ -15,6 +16,7 @@
     "npm": "^7.20.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-draft-wysiwyg": "^1.14.7",
     "react-firebase-hooks": "^3.0.4"
   },
   "devDependencies": {

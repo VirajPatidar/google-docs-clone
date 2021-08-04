@@ -1,4 +1,3 @@
-// import TextEditor from '../../components/TextEditor'
 import Button from '@material-tailwind/react/Button';
 import Icon from '@material-tailwind/react/Icon';
 import { useRouter } from 'next/dist/client/router';
@@ -6,6 +5,7 @@ import { db } from '../../firebase';
 import { useDocumentOnce } from 'react-firebase-hooks/firestore';
 import { getSession, signOut, useSession } from 'next-auth/client';
 import Login from '../../components/Login';
+import TextEditor from '../../components/TextEditor';
 
 const Doc = () => {
 
@@ -65,6 +65,9 @@ const Doc = () => {
                     />
                 </div>
             </header>
+
+            <TextEditor />
+
         </div>
     );
 }
