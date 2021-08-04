@@ -58,14 +58,13 @@ const Doc = () => {
                         <Icon name="people" size="md"/> SHARE
                     </Button>
                     <img 
+                        onClick={signOut}
                         className="cursor-pointer rounded-full h-10 w-10 ml-2" 
                         src={session?.user.image}
                         alt="" 
                     />
                 </div>
             </header>
-
-            {/* {doc && <TextEditor doc={doc} />} */}
         </div>
     );
 }
