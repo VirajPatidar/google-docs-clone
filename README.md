@@ -1,4 +1,38 @@
-# Next.js + Tailwind CSS Example
+# Google Docs Clone: A responsive web app that lets you edit and save docs on the go
+
+_A responsive web app that lets you edit and save docs on the go. Changes are persistent and the document gets saved automatically in realtime._
+
+_Experience a rich text editor with smart editing and styling tools to help you easily format text and paragraphs. Choose from fonts, add links, images, and drawings._
+
+_Login using your google account to get started._
+
+<br/>
+
+**Link to the website:** []()
+
+<br/>
+
+**Tech Stack**
+* Next.js
+* React
+* Firebase
+* NextAuth.js
+* Draft.js
+* Tailwind CSS
+* material-tailwind
+
+<br/>
+
+**Features**
+* document gets saved automatically in realtime
+* Login using Google
+* rich text editor
+* Responsive Design
+* Material Design
+
+<br/>
+
+## Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
