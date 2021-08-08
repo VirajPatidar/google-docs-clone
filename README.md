@@ -8,7 +8,7 @@ _Login using your google account to get started._
 
 <br/>
 
-**Link to the website:** [https://google-docs-cloned.vercel.app/](https://google-docs-cloned.vercel.app/)
+**Link to the Web App:** [https://google-docs-cloned.vercel.app/](https://google-docs-cloned.vercel.app/)
 
 <br/>
 
@@ -26,6 +26,7 @@ _Login using your google account to get started._
 **Features**
 * document gets saved automatically in realtime
 * Login using Google
+* Server-side Rendering (SSR)
 * rich text editor
 * Responsive Design
 * Material Design
